@@ -24,8 +24,8 @@ The notebook demonstrates a clear, reproducible workflow commonly used in data s
 ## How to View the Notebook
 
 * **GitHub preview**: Open the notebook directly in this repository
-* **NBViewer (recommended)**: Paste the notebook URL into [https://nbviewer.org](https://nbviewer.org) for best rendering
-* **HTML report** (if included): Download and open the rendered HTML file in a browser
+* **NBViewer **: Paste the notebook URL into [https://nbviewer.org](https://nbviewer.org) for best rendering
+* **HTML report** : Download and open the rendered HTML file in a browser
 
 ## Tools and Technologies
 
